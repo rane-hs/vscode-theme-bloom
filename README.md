@@ -1,6 +1,4 @@
-# README
-
-![SAMPLE](./sample-image/zundoko.png)
+![](https://raw.githubusercontent.com/rane-hs/vscode-theme-bloom/master/sample-image/sample.png)
  
 ## This is the README for your extension "theme-gloom" 
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
