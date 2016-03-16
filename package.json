@@ -1,0 +1,22 @@
+{
+	"name": "theme-gloom",
+	"displayName": "gloom",
+	"description": "gloom clone",
+	"version": "0.0.1",
+	"publisher": "rane-hs",
+	"engines": {
+		"vscode": "^0.10.10"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Gloom",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Gloom.tmTheme"
+			}
+		]
+	}
+}
